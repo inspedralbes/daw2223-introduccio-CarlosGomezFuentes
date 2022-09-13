@@ -8,5 +8,8 @@ Els professors són:
 - Toni Díaz
 - Paco García
 - Antonio
+- Susana Díaz
+
+# INFORMACIÓ DE L'INSTITUT
 
 

@@ -3,7 +3,7 @@
 
 Els professors són:
 
--Ermengol Bota
--Álvaro Pérez
--Toni Díaz
--Paco García
+- Ermengol Bota
+- Álvaro Pérez
+- Toni Díaz
+- Paco García 

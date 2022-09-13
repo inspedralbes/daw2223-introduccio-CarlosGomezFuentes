@@ -11,5 +11,6 @@ Els professors són:
 - Susana Díaz
 
 # INFORMACIÓ DE L'INSTITUT
-
+L’institut Pedralbes és un centre públic català en el qual s’imparteixen estudis d’ESO, 
+Batxillerat(cientificotecnològic,humanístic social i d’arts escèniques) i Cicles Formatius d’Informàtica
 

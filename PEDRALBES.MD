@@ -3,6 +3,6 @@
 
 Els professors són:
 
--Ermengol Bota
--Álvaro Pérez
--Toni Díaz
+-Ermengol Bota \n
+-Álvaro Pérez \n
+-Toni Díaz \n

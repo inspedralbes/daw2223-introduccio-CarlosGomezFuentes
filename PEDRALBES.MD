@@ -3,10 +3,10 @@
 
 Els professors són:
 
--Ermengol Bota
--Álvaro Pérez
--Toni Díaz
--Paco García
--Antonio
+- Ermengol Bota
+- Álvaro Pérez
+- Toni Díaz
+- Paco García
+- Antonio
 
 
